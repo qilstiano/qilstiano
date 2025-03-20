@@ -1,18 +1,18 @@
-### hi there, i'm a'qil! 👋
-
-[![typing svg](https://readme-typing-svg.demolab.com?font=fira+code&duration=4000&pause=1000&color=00ff00&center=true&vcenter=true&multiline=true&width=600&height=100&lines=cybersecurity+%7c+software+development+%7c+ai%2fml;pentesting+%26+ctfs+%7c+building+cool+stuff)](https://git.io/typing-svg)
-
----
+<p align="center">
+  <img src="https://media4.giphy.com/media/7NoNw4pMNTvgc/200w.gif?cid=6c09b952dc7035l3okspoiwqgupzym0mws4mf6mhxtb22up2&ep=v1_gifs_search&rid=200w.gif&ct=g" width="100" height="100">
+  <img src="https://github.com/user-attachments/assets/3fe1fc11-22f4-4cc4-b391-fb1775eb1c86" width="800" height="100">
+  <img src="https://media.tenor.com/1Aizsst6yQEAAAAM/boom-explode.gif" width="100" height="100">
+</p>
 
 ### ✨ about me
 - 🤖 cybersecurity enthusiast, pentester in the making
 - 🔧 software engineer and aspiring ai/ml engineer
-- 💪 building cool projects and breaking stuff (ethically)
-- 👁 find me @ ctfs, hackathons or at YO MOM'S PLACE!!!!!!!!!!!!!!!!!!!!!!!!!!
+- 💪 building cool projects and breaking stuff (ethically) (or maybe not idk)
+- 👁 find me @ ctfs, hackathons or at yo mom's place!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 ---
 
-### 🛠 tech stack
+### 🛠 tecc stacc
 
 #### ⚖️ cybersecurity
 ![kali linux](https://img.shields.io/badge/kali_linux-557c94?style=for-the-badge&logo=kali-linux&logoColor=white)
@@ -38,14 +38,13 @@
 
 ---
 
-### 📊 github stats & activity
+### 📊 see how badly i'm doing
 
 ![github streak](https://github-readme-streak-stats.herokuapp.com/?user=qilstiano&theme=radical&hide_border=true)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=qilstiano&show_icons=true&theme=radical&hide_border=true)
 
 ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qilstiano&layout=compact&theme=radical&hide_border=true)
-
 
 ### 💪 connect with me
 [![linkedin](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-aqil222)
