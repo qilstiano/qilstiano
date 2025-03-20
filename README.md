@@ -4,15 +4,15 @@
   <img src="https://media.tenor.com/1Aizsst6yQEAAAAM/boom-explode.gif" width="70" height="70">
 </p>
 
-### ✨ about me
+![cooltext478638496890905](https://github.com/user-attachments/assets/5a2777fb-4270-4e52-8b77-bea620c1a628)
+ 
 - 🤖 cybersecurity enthusiast, pentester in the making
-- 🔧 software engineer and aspiring ai/ml engineer
+- 🔧 software engineer with an interest in artificial intelligence & machine learning
 - 💪 building cool projects and breaking stuff (ethically) (or maybe not idk)
 - 👁 find me @ ctfs, hackathons or at yo mom's place!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 ---
-
-### 🛠 tecc stacc
+### my tecc stacc
 
 #### ⚖️ cybersecurity
 ![kali linux](https://img.shields.io/badge/kali_linux-557c94?style=for-the-badge&logo=kali-linux&logoColor=white)
@@ -38,14 +38,13 @@
 
 ---
 
-### 📊 see how badly i'm doing
+### 📊 da statz
 
 ![github streak](https://github-readme-streak-stats.herokuapp.com/?user=qilstiano&theme=radical&hide_border=true)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=qilstiano&show_icons=true&theme=radical&hide_border=true)
-
 ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qilstiano&layout=compact&theme=radical&hide_border=true)
 
-### 💪 connect with me
+![cooltext478639524354458](https://github.com/user-attachments/assets/74ecacee-44da-440b-96b2-3f0a17c5a973)
+
 [![linkedin](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-aqil222)
 [![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qilstiano)
