@@ -4,7 +4,7 @@
   <img src="https://media.tenor.com/1Aizsst6yQEAAAAM/boom-explode.gif" width="70" height="70">
 </p>
 
-![cooltext478638496890905](https://github.com/user-attachments/assets/5a2777fb-4270-4e52-8b77-bea620c1a628)
+<img src="https://github.com/user-attachments/assets/5a2777fb-4270-4e52-8b77-bea620c1a628" width="500" height="80">
  
 - 🤖 cybersecurity enthusiast, pentester in the making
 - 🔧 software engineer with an interest in artificial intelligence & machine learning
@@ -12,8 +12,8 @@
 - 👁 find me @ ctfs, hackathons or at yo mom's place!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 ---
-### my tecc stacc
-
+ <img src="https://github.com/user-attachments/assets/d429f388-36dd-4d87-badb-a759b4b41cd5" width="400" height="40">
+ 
 #### ⚖️ cybersecurity
 ![kali linux](https://img.shields.io/badge/kali_linux-557c94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![metasploit](https://img.shields.io/badge/metasploit-0088cc?style=for-the-badge&logo=metasploit&logoColor=white)
@@ -36,14 +36,19 @@
 ![scikit-learn](https://img.shields.io/badge/scikit_learn-f7931e?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
+![github streak](https://github-readme-streak-stats.herokuapp.com/?user=qilstiano&theme=radical&hide_border=true) ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qilstiano&layout=compact&theme=radical&hide_border=true)
 ---
+ <img src="https://github.com/user-attachments/assets/3a9c1c42-cca4-4e0a-8be9-17885a18c353" width="400" height="60">
+ 
+- [ ] OCSP Certification
+- [ ] Burp Certification
+- [ ] create a gratitude app
+- [ ] land an internship (DIFFICULTY: IMPOSSIBLE)
+- [X] win a hackathon (LETS GO!!!!!!!!!!!)
+- [ ] create a backend for my startup
+- [ ] learn a new language (probably Rust or Go idk) 
 
-### 📊 da statz
-
-![github streak](https://github-readme-streak-stats.herokuapp.com/?user=qilstiano&theme=radical&hide_border=true)
-
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qilstiano&layout=compact&theme=radical&hide_border=true)
-
+---
 ![cooltext478639524354458](https://github.com/user-attachments/assets/74ecacee-44da-440b-96b2-3f0a17c5a973)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-aqil222)
