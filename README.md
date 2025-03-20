@@ -45,8 +45,9 @@
 - [ ] create a gratitude app
 - [ ] land an internship (DIFFICULTY: IMPOSSIBLE)
 - [X] win a hackathon (LETS GO!!!!!!!!!!!)
-- [ ] create a backend for my startup
-- [ ] learn a new language (probably Rust or Go idk) 
+- [ ] create a backend for my startup's store page
+- [ ] learn a new language (probably Rust or Go idk)
+- [ ] make something in Typescript
 
 ---
 ![cooltext478639524354458](https://github.com/user-attachments/assets/74ecacee-44da-440b-96b2-3f0a17c5a973)
