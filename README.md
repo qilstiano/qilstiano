@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://media4.giphy.com/media/7NoNw4pMNTvgc/200w.gif?cid=6c09b952dc7035l3okspoiwqgupzym0mws4mf6mhxtb22up2&ep=v1_gifs_search&rid=200w.gif&ct=g" width="100" height="100">
-  <img src="https://github.com/user-attachments/assets/3fe1fc11-22f4-4cc4-b391-fb1775eb1c86" width="800" height="100">
+  <img src="https://github.com/user-attachments/assets/3fe1fc11-22f4-4cc4-b391-fb1775eb1c86" width="700" height="80">
   <img src="https://media.tenor.com/1Aizsst6yQEAAAAM/boom-explode.gif" width="100" height="100">
 </p>
 
