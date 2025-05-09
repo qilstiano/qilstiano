@@ -43,7 +43,7 @@
 - [ ] OCSP Certification
 - [ ] Burp Certification
 - [ ] create a gratitude app
-- [ ] land an internship (DIFFICULTY: IMPOSSIBLE)
+- [X] land an internship (DIFFICULTY: IMPOSSIBLE) (UPDATE: WE DID IT BOYS)
 - [X] win a hackathon (LETS GO!!!!!!!!!!!)
 - [ ] create a backend for my startup's store page
 - [ ] learn a new language (probably Rust or Go idk)
