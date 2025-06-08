@@ -43,11 +43,12 @@
 - [ ] OCSP Certification
 - [ ] Burp Certification
 - [ ] create a gratitude app
-- [X] land an internship (DIFFICULTY: IMPOSSIBLE) (UPDATE: WE DID IT BOYS)
+- [X] land an internship (DIFFICULTY: IMPOSSIBLE) (UPDATE: WE DID IT YIPPEEEEEEEEEEEEEEEE)
 - [X] win a hackathon (LETS GO!!!!!!!!!!!)
-- [ ] create a backend for my startup's store page
+- [ ] create a backend for my startup's store page (IN PROGRESS RN)
 - [ ] learn a new language (probably Rust or Go idk)
 - [ ] make something in Typescript
+- [ ] starting up a new fintech startup!!!
 
 ---
 ![cooltext478639524354458](https://github.com/user-attachments/assets/74ecacee-44da-440b-96b2-3f0a17c5a973)
