@@ -11,6 +11,11 @@
 - 💪 building cool projects and breaking stuff (ethically) (or maybe not idk)
 - 👁 find me @ ctfs, hackathons or at yo mom's place!!!!!!!!!!!!!!!!!!!!!!!!!!
 
+my experience!
+- currently the CTO + Full Stack Engineer at Jalan Journey, a Singaporean based edutech focused on gamifying CCE education!
+- doing a 6 month internship stint at Mitsubishi UFJ Financial Group under the Security Services team 🇯🇵🧑‍💻
+- Backend Engineer @ ![Score]()
+
 ---
  <img src="https://github.com/user-attachments/assets/d429f388-36dd-4d87-badb-a759b4b41cd5" width="400" height="40">
  
