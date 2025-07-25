@@ -14,7 +14,7 @@
 my experience!
 - currently the CTO + Full Stack Engineer at Jalan Journey, a Singaporean based edutech focused on gamifying CCE education!
 - doing a 6 month internship stint at Mitsubishi UFJ Financial Group under the Security Services team 🇯🇵🧑‍💻
-- Backend Engineer @ ![Score](https://github.com/ScoreFinTech), of which i do not claim finbro status from
+- Backend Engineer @ [Score](https://github.com/ScoreFinTech), of which i do not claim finbro status from
 
 ---
  <img src="https://github.com/user-attachments/assets/d429f388-36dd-4d87-badb-a759b4b41cd5" width="400" height="40">
