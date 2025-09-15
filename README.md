@@ -6,15 +6,15 @@
 
 <img src="https://github.com/user-attachments/assets/5a2777fb-4270-4e52-8b77-bea620c1a628" width="500" height="80">
  
-- 🤖 cybersecurity enthusiast, pentester in the making
-- 🔧 software engineer with an interest in artificial intelligence & machine learning
+- 🤖 cybersecurity and software engineering
+- 🔧 interest in artificial intelligence & machine learning
 - 💪 building cool projects and breaking stuff (ethically) (or maybe not idk)
 - 👁 find me @ ctfs, hackathons or at yo mom's place!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 my experience!
 - currently the CTO + Full Stack Engineer at Jalan Journey, a Singaporean based edutech focused on gamifying CCE education!
 - doing a 6 month internship stint at Mitsubishi UFJ Financial Group under the Security Services team 🇯🇵🧑‍💻
-- Backend Engineer @ [Score](https://github.com/ScoreFinTech), of which i do not claim finbro status from
+- Backend Engineer @ [Score](https://github.com/ScoreFinTech), of which i do not claim finbro status from (now rei
 
 ---
  <img src="https://github.com/user-attachments/assets/d429f388-36dd-4d87-badb-a759b4b41cd5" width="400" height="40">
@@ -47,13 +47,12 @@ my experience!
  
 - [ ] OCSP Certification
 - [ ] Burp Certification
-- [ ] create a gratitude app
+- [X] create an OSS project + maintain it (check [glanxiv](https://glanxiv.com) out!)
 - [X] land an internship (DIFFICULTY: IMPOSSIBLE) (UPDATE: WE DID IT YIPPEEEEEEEEEEEEEEEE)
 - [X] win a hackathon (LETS GO!!!!!!!!!!!)
 - [ ] create a backend for my startup's store page (IN PROGRESS RN)
 - [ ] learn a new language (probably Rust or Go idk)
-- [ ] make something in Typescript
-- [ ] starting up a new fintech startup!!!
+- [X] make something in Typescript
 
 ---
 ![cooltext478639524354458](https://github.com/user-attachments/assets/74ecacee-44da-440b-96b2-3f0a17c5a973)
