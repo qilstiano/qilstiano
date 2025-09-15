@@ -10,6 +10,7 @@
 - 🔧 interest in artificial intelligence & machine learning
 - 💪 building cool projects and breaking stuff (ethically) (or maybe not idk)
 - 👁 find me @ ctfs, hackathons or at yo mom's place!!!!!!!!!!!!!!!!!!!!!!!!!!
+- at the core of it all, trying to leave a meaningful impact on the community around me and the world ❗
 
 my experience!
 - currently the CTO + Full Stack Engineer at Jalan Journey, a Singaporean based edutech focused on gamifying CCE education!
