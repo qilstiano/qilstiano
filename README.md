@@ -60,3 +60,7 @@ my experience!
 
 [![linkedin](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-aqil222)
 [![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qilstiano)
+
+free palestine 
+
+<img width="77" height="42" alt="image" src="https://github.com/user-attachments/assets/681c029d-ec46-41fa-bfa5-384f8d1e82bd" />
