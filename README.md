@@ -42,7 +42,7 @@ my experience!
 ![scikit-learn](https://img.shields.io/badge/scikit_learn-f7931e?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-![github streak](https://github-readme-streak-stats.herokuapp.com/?user=qilstiano&theme=radical&hide_border=true) ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qilstiano&layout=compact&theme=radical&hide_border=true)
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qilstiano&layout=compact&theme=radical&hide_border=true)
 ---
  <img src="https://github.com/user-attachments/assets/3a9c1c42-cca4-4e0a-8be9-17885a18c353" width="400" height="60">
  
