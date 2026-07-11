@@ -14,35 +14,11 @@
 
 my experience!
 - currently the CTO + Full Stack Engineer at Jalan Journey, a Singaporean based edutech focused on gamifying CCE education!
-- doing a 6 month internship stint at Mitsubishi UFJ Financial Group under the Security Services team 🇯🇵🧑‍💻
+- finished a 6 month internship stint at Mitsubishi UFJ Financial Group under the Security Services team 🇯🇵🧑‍💻
+- awaiting another 6 month security engineering internship at Rajah & Tann 🧑‍⚖️
 - Founding Backend Engineer @ [Score](https://github.com/ScoreFinTech), of which i do not claim finbro status from (now retired)
 
----
- <img src="https://github.com/user-attachments/assets/d429f388-36dd-4d87-badb-a759b4b41cd5" width="400" height="40">
- 
-#### ⚖️ cybersecurity
-![kali linux](https://img.shields.io/badge/kali_linux-557c94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![metasploit](https://img.shields.io/badge/metasploit-0088cc?style=for-the-badge&logo=metasploit&logoColor=white)
-![burp suite](https://img.shields.io/badge/burp_suite-ff6600?style=for-the-badge&logo=burp-suite&logoColor=white)
-![wireshark](https://img.shields.io/badge/wireshark-1679a7?style=for-the-badge&logo=wireshark&logoColor=white)
-![nmap](https://img.shields.io/badge/nmap-0096d6?style=for-the-badge&logo=nmap&logoColor=white)
-![tryhackme](https://img.shields.io/badge/tryhackme-ff0000?style=for-the-badge&logo=tryhackme&logoColor=white)
 
-#### 🛠️ software development
-![next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![react](https://img.shields.io/badge/react-61dafb?style=for-the-badge&logo=react&logoColor=black)
-![node.js](https://img.shields.io/badge/node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white)
-![tailwindcss](https://img.shields.io/badge/tailwind_css-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-#### 🤖 ai/ml
-![python](https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logoColor=white)
-![pytorch](https://img.shields.io/badge/pytorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white)
-![tensorflow](https://img.shields.io/badge/tensorflow-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit_learn-f7931e?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qilstiano&layout=compact&theme=radical&hide_border=true)
 ---
  <img src="https://github.com/user-attachments/assets/3a9c1c42-cca4-4e0a-8be9-17885a18c353" width="400" height="60">
  
