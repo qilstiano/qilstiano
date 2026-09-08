@@ -27,7 +27,7 @@ my experience!
 - [X] create an OSS project + maintain it (check [glanxiv](https://glanxiv.com) out!)
 - [X] land an internship (DIFFICULTY: IMPOSSIBLE) (UPDATE: WE DID IT YIPPEEEEEEEEEEEEEEEE)
 - [X] win a hackathon (LETS GO!!!!!!!!!!!)
-- [ ] create a backend for my startup's store page (IN PROGRESS RN)
+- [X] work on a big project ([DONE](https://greenhousegames.io))
 - [ ] learn a new language (probably Rust or Go idk)
 - [X] make something in Typescript
 
