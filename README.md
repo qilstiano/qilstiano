@@ -22,7 +22,7 @@ my experience!
 ---
  <img src="https://github.com/user-attachments/assets/3a9c1c42-cca4-4e0a-8be9-17885a18c353" width="400" height="60">
  
-- [ ] OCSP Certification
+- [ ] CPTS Certification
 - [ ] Burp Certification
 - [X] create an OSS project + maintain it (check [glanxiv](https://glanxiv.com) out!)
 - [X] land an internship (DIFFICULTY: IMPOSSIBLE) (UPDATE: WE DID IT YIPPEEEEEEEEEEEEEEEE)
