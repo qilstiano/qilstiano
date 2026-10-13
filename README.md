@@ -9,9 +9,6 @@
 building and breaking! 
 
 ---
-![cooltext478639524354458](https://github.com/user-attachments/assets/74ecacee-44da-440b-96b2-3f0a17c5a973)
-
-
 
 free palestine 
 
