@@ -4,8 +4,6 @@
   <img src="https://media.tenor.com/1Aizsst6yQEAAAAM/boom-explode.gif" width="70" height="70">
 </p>
 
-<img src="https://github.com/user-attachments/assets/5a2777fb-4270-4e52-8b77-bea620c1a628" width="500" height="80">
-
 building and breaking! 
 
 ---
